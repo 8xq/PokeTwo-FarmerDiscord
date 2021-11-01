@@ -30,7 +30,7 @@ This is a very basic PokeTwo discord bot farmer made in c# using the "Anarchy" d
 ❌ Auto-sell pokemon on the market 
 ❌ Auto-update pokemon list from URL
 ```
-## Example config
+## Example config (Config.json)
 ```
 {
   "DiscordToken": "MFA.888cH6ThJX7GW9HnCdRDSKLxSWIDmNv.klOLKD.lkOLLL",
